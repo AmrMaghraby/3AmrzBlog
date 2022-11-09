@@ -20,6 +20,7 @@ HUGO_ENV = "production"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "deny"
     X-XSS-Protection = "1; mode=block"
+    Access-Control-Allow-Origin = "*"
 
 [[redirects]]
   from = "/:lang/*"
