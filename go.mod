@@ -1,4 +1,4 @@
-module github.com/razonyang/hugo-theme-bootstrap-skeleton
+module github.com/AmrMaghraby/3AmrzBlog
 
 go 1.18
 
